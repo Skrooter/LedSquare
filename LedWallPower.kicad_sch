@@ -878,7 +878,7 @@
     (uuid 00000000-0000-0000-0000-00006026df6c)
     (property "Reference" "L1" (id 0) (at 193.04 47.625 90))
     (property "Value" "47u" (id 1) (at 193.04 49.9364 90))
-    (property "Footprint" "" (id 2) (at 193.04 53.34 0)
+    (property "Footprint" "Ledwall:YNR6045-470M" (id 2) (at 193.04 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 193.04 53.34 0)

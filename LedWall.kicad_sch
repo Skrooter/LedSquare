@@ -1651,7 +1651,7 @@
       (reference "J4") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-00006026df6c"
-      (reference "L1") (unit 1) (value "47u") (footprint "")
+      (reference "L1") (unit 1) (value "47u") (footprint "Ledwall:YNR6045-470M")
     )
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/84425d87-a310-4863-abb7-69a383956a8f"
       (reference "R1") (unit 1) (value "270R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
