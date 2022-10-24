@@ -1143,10 +1143,10 @@
     (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-00006026f6e7"
       (reference "#PWR0203") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-000060273d37"
+    (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-000060269f30"
       (reference "#PWR0204") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-000060269f30"
+    (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-000060273d37"
       (reference "#PWR0205") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060250caf/7d2b10c5-8254-41f2-b068-5c0472c54049"
@@ -1680,53 +1680,59 @@
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/88ec1cca-8951-4527-99fd-017774db44cd"
       (reference "R302") (unit 1) (value "22") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/1dfc6d37-def8-4d53-930e-25dd69d2ed1c"
+    (path "/00000000-0000-0000-0000-000060250caf/496407a0-a183-4673-a644-c811d4849552"
       (reference "TP201") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/5bc58ad5-f6a3-4414-88bb-b2092fd6d1fd"
+    (path "/00000000-0000-0000-0000-000060250caf/1dfc6d37-def8-4d53-930e-25dd69d2ed1c"
       (reference "TP202") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/11981722-daed-472f-a598-bf531f6210ff"
+    (path "/00000000-0000-0000-0000-000060250caf/5bc58ad5-f6a3-4414-88bb-b2092fd6d1fd"
       (reference "TP203") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/d8e218ce-64d5-488d-8fcf-65e6d075398c"
+    (path "/00000000-0000-0000-0000-000060250caf/11981722-daed-472f-a598-bf531f6210ff"
       (reference "TP204") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/b7ccaa86-edcf-4bbc-8ce0-29bbb8941140"
+    (path "/00000000-0000-0000-0000-000060250caf/9f89abc6-073e-4198-a22c-1805cc1271b2"
       (reference "TP205") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
     (path "/00000000-0000-0000-0000-000060250caf/9cc11853-acfb-41d3-8664-84227b59bf39"
       (reference "TP206") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/23f66045-59a2-45c6-bfc4-95a8ce7e1b0a"
+    (path "/00000000-0000-0000-0000-000060250caf/d8e218ce-64d5-488d-8fcf-65e6d075398c"
       (reference "TP207") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/1c5f9539-c43a-45c8-b8de-d2c10abed162"
+    (path "/00000000-0000-0000-0000-000060250caf/b7ccaa86-edcf-4bbc-8ce0-29bbb8941140"
       (reference "TP208") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/11c2e0a2-ce3e-43f6-8444-54c1d57ca493"
+    (path "/00000000-0000-0000-0000-000060250caf/23f66045-59a2-45c6-bfc4-95a8ce7e1b0a"
       (reference "TP209") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/21e17c42-a46f-45da-8a6c-f7ab088ee15e"
+    (path "/00000000-0000-0000-0000-000060250caf/1c5f9539-c43a-45c8-b8de-d2c10abed162"
       (reference "TP210") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/a95be815-3e53-4da9-8cd7-69f78c184c26"
+    (path "/00000000-0000-0000-0000-000060250caf/11c2e0a2-ce3e-43f6-8444-54c1d57ca493"
       (reference "TP211") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/53d386a6-39bf-477d-afa7-ae90098ec517"
+    (path "/00000000-0000-0000-0000-000060250caf/21e17c42-a46f-45da-8a6c-f7ab088ee15e"
       (reference "TP212") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/ef7f2309-1e53-4022-bdda-b3b1a064eae8"
+    (path "/00000000-0000-0000-0000-000060250caf/a95be815-3e53-4da9-8cd7-69f78c184c26"
       (reference "TP213") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/8217afc4-f776-43e0-9b54-b24dea9a062b"
+    (path "/00000000-0000-0000-0000-000060250caf/53d386a6-39bf-477d-afa7-ae90098ec517"
       (reference "TP214") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/5fc55f2d-2871-4388-8960-0909a99dc146"
+    (path "/00000000-0000-0000-0000-000060250caf/ef7f2309-1e53-4022-bdda-b3b1a064eae8"
       (reference "TP215") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/b981159f-c86b-4f70-a639-dc0f54e7033e"
+    (path "/00000000-0000-0000-0000-000060250caf/8217afc4-f776-43e0-9b54-b24dea9a062b"
       (reference "TP216") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
+    )
+    (path "/00000000-0000-0000-0000-000060250caf/5fc55f2d-2871-4388-8960-0909a99dc146"
+      (reference "TP217") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
+    )
+    (path "/00000000-0000-0000-0000-000060250caf/b981159f-c86b-4f70-a639-dc0f54e7033e"
+      (reference "TP218") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/8397c743-5579-4aab-a738-d5ff72983494"
       (reference "TP301") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
@@ -1760,6 +1766,9 @@
     )
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/4c58cb2d-73b4-45ef-9219-c1d44f2466bf"
       (reference "TP311") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
+    )
+    (path "/c705785b-94d5-4823-85f6-f7516cb14068/e538ac63-d0b4-45e2-bab0-0d626eb0dbf5"
+      (reference "TP312") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
     (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-0000602691f6"
       (reference "U201") (unit 1) (value "TPS5430DDA") (footprint "Package_SO:TI_SO-PowerPAD-8_ThermalVias")
