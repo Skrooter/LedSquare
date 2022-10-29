@@ -383,6 +383,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0bec63a1-8c5b-45f9-9f01-f286eab883f1)
   )
+  (polyline (pts (xy 81.28 177.8) (xy 176.53 177.8))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 12a9d30a-4001-4744-954b-c5363835568d)
+  )
+
   (wire (pts (xy 153.035 124.46) (xy 145.415 124.46))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1475d511-4412-402e-9016-c20563920ef1)
@@ -575,6 +580,16 @@
   (wire (pts (xy 73.66 187.96) (xy 73.66 185.42))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fef77ac9-58f7-470f-b5b1-bbbd87154d64)
+  )
+
+  (text "Reqs:\nSeries resistor on data in.\nPull up on data in do avoid glitches when unconnected \n   and to be able to use STM32 with open drain pin\n   pin config"
+    (at 82.55 189.23 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 932c8852-5c90-428b-bb31-896331ec22ec)
+  )
+  (text "GND reference Test Points" (at 12.7 196.85 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b192f1bc-e24e-42e8-846e-837b9aa12202)
   )
 
   (label "DataInFiltered" (at 60.96 33.02 270)

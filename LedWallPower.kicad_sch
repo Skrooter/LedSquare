@@ -663,6 +663,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 03e89705-ea31-4251-8955-129af224f259)
   )
+  (polyline (pts (xy 177.8 152.4) (xy 284.48 152.4))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 05918ba4-cce3-427c-837d-95d1cbef8057)
+  )
+
   (wire (pts (xy 199.39 62.23) (xy 186.69 62.23))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 07381bc4-9756-49af-b014-b75855cd1d85)
@@ -979,6 +984,11 @@
   (text "V_{in}: 10V-36V\nV_{out}: ~4.5V\nI_{out}max: 1A" (at 148.59 41.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 55f63151-8b1c-4b55-a295-eb495bbf7c22)
+  )
+  (text "Reqs:\nVin 12-36V\nEnable pulled down\nEnable series resistor to limit current draw on enable pin\nOutput close to 5V\n> 1.5A output"
+    (at 180.34 165.1 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 775b08af-226e-4398-86a2-03fa7403abeb)
   )
 
   (label "VSENSE" (at 173.99 63.5 0)
