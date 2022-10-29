@@ -1096,7 +1096,7 @@
   (symbol (lib_id "power:GND") (at 195.58 154.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 15e69da9-56c0-4854-8649-7e068449124a)
-    (property "Reference" "#PWR?" (id 0) (at 195.58 161.29 0)
+    (property "Reference" "#PWR0117" (id 0) (at 195.58 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 195.707 159.3342 0))
@@ -1317,6 +1317,9 @@
     )
     (path "/00000000-0000-0000-0000-0000601a34b9"
       (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/15e69da9-56c0-4854-8649-7e068449124a"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-0000602698c6"
       (reference "#PWR0201") (unit 1) (value "VDC") (footprint "")
@@ -1654,23 +1657,26 @@
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/77dfbbef-8c16-435b-bc60-1eb91a7c72a4"
       (reference "#PWR0402") (unit 1) (value "GND") (footprint "")
     )
-    (path "/15e69da9-56c0-4854-8649-7e068449124a"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-00006026c80b"
       (reference "C201") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/e4dbf57f-edad-4960-bcda-483eafa4cb4d"
-      (reference "C202") (unit 1) (value "150u/50V") (footprint "Capacitor_SMD:C_Elec_10x10.2")
+    (path "/00000000-0000-0000-0000-000060250caf/e004653b-6c1c-4b5e-bfa1-372ceaad658f"
+      (reference "C202") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-000060250caf/08f931a0-f0af-4e96-8e40-ac2876e79168"
+      (reference "C203") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-000060250caf/56785986-727b-4a1c-a0d4-c727c01e283b"
+      (reference "C204") (unit 1) (value "47u") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000060250caf/56c2a647-f6a0-4560-b278-f03681bac5bd"
-      (reference "C203") (unit 1) (value "10u/50V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C205") (unit 1) (value "10u/50V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-00006026a962"
-      (reference "C204") (unit 1) (value "10u/50V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C206") (unit 1) (value "10u/50V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-000060250caf/3b1b5300-f593-41ba-b9ec-599a99a53975"
-      (reference "C205") (unit 1) (value "100n/10V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C207") (unit 1) (value "100n/10V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/0ce871b1-6019-4236-9fde-4ce985675068"
       (reference "C301") (unit 1) (value "100n/10V") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1867,11 +1873,11 @@
     (path "/00000000-0000-0000-0000-000060250caf/4b491775-d9a6-45c7-8249-80e70c3d9612"
       (reference "R202") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-000060272a5a"
-      (reference "R203") (unit 1) (value "7k5") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
     (path "/00000000-0000-0000-0000-000060250caf/b3eb2f8f-cff1-4490-9da2-9a8b3046be4c"
-      (reference "R204") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R203") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/00000000-0000-0000-0000-000060250caf/00000000-0000-0000-0000-000060272a5a"
+      (reference "R204") (unit 1) (value "7k5") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/84425d87-a310-4863-abb7-69a383956a8f"
       (reference "R301") (unit 1) (value "270R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -1879,13 +1885,13 @@
     (path "/c705785b-94d5-4823-85f6-f7516cb14068/88ec1cca-8951-4527-99fd-017774db44cd"
       (reference "R302") (unit 1) (value "22") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/496407a0-a183-4673-a644-c811d4849552"
+    (path "/00000000-0000-0000-0000-000060250caf/1dfc6d37-def8-4d53-930e-25dd69d2ed1c"
       (reference "TP201") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/1dfc6d37-def8-4d53-930e-25dd69d2ed1c"
+    (path "/00000000-0000-0000-0000-000060250caf/5bc58ad5-f6a3-4414-88bb-b2092fd6d1fd"
       (reference "TP202") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
-    (path "/00000000-0000-0000-0000-000060250caf/5bc58ad5-f6a3-4414-88bb-b2092fd6d1fd"
+    (path "/00000000-0000-0000-0000-000060250caf/496407a0-a183-4673-a644-c811d4849552"
       (reference "TP203") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded")
     )
     (path "/00000000-0000-0000-0000-000060250caf/11981722-daed-472f-a598-bf531f6210ff"
